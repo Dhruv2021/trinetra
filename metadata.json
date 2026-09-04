@@ -1,0 +1,6 @@
+{
+  "name": "Trinetra — Crime Intelligence & Network Analysis System",
+  "description": "AI-powered investigation-support platform connecting crime case data, entity extraction, relationship discovery, and interactive network graphs for law enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
